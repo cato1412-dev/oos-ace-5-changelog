@@ -2,6 +2,21 @@
   "title": "Vieos OxygenOS Ace 5 Changelog",
   "versions": [
     {
+      "version": "V9.1",
+      "groups": {
+        "Tính năng mới": [
+          "App lịch coloros global",
+          "and more..."
+        ],
+        "Sửa lỗi": [
+          "App gọi điện"
+        ],
+        "Tối ưu": [
+          "Pin tốt hơn"
+        ]
+      }
+    },
+    {
       "version": "V9",
       "groups": {
         "Tính năng mới": [
