@@ -2,6 +2,14 @@
   "title": "Vieos OxygenOS Ace 5 Changelog",
   "versions": [
     {
+      "version": "V9 hotfix 2",
+      "groups": {
+        "Tối ưu": [
+          "Wifi bắt sóng ổn hơn"
+        ]
+      }
+    },
+    {
       "version": "V9 hotfix 1",
       "groups": {
         "Tính năng mới": [
