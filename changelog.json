@@ -2,6 +2,24 @@
   "title": "Vieos OxygenOS Ace 5 Changelog",
   "versions": [
     {
+      "version": "Limited Edition",
+      "groups": {
+        "Tính năng mới": [
+          "Toolbox 2.0",
+          "Google Wallet",
+          "Aod Media Control",
+          "Liên quân 120fps",
+          "Noti số trên icon all app",
+          "Bật lại tối ưu hoá ứng dụng",
+          "and more..."
+        ],
+        "Tối ưu": [
+          "Pin ổn định",
+          "Sóng di động và Wifi tốt hơn"
+        ]
+      }
+    },
+    {
       "version": "V9 hotfix 2",
       "groups": {
         "Tối ưu": [
